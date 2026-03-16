@@ -60,6 +60,6 @@ https://github.com/shuaiplus/NodeCrypt
 
 用 另一个浏览器，打开同一个 NodeCrypt 地址，输入同一个房间名 +节点，会看到在线成员变成 2
 
-![53b8f77c43ca8b3351512fa44ac883ef.png](../_resources/53b8f77c43ca8b3351512fa44ac883ef.png)
+![53b8f77c43ca8b3351512fa44ac883ef.png](./_resources/53b8f77c43ca8b3351512fa44ac883ef.png)
 
 NodeCrypt 已成功建立端到端加密连接的聊天场景：两名用户进入同一节点后上线、收发消息，系统提示“已建立端到端安全连接”，并能看到成员加入与离开的状态变化，整体体验和 Telegram 网页版非常相似
